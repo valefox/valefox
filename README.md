@@ -1,6 +1,7 @@
 ## Hai! ^w^
-- I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages.
-- At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make.
+I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages. At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make.
+
+When I finish my website I'll put a link here and make a repo with the source code.
 <!--
 **valefox/valefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
