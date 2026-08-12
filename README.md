@@ -1,5 +1,5 @@
 ## Hai! ^w^
-I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages. At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make.
+I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages. At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make, and also because it's the easiest thing to code in since I'm limited to using my school Chromebook for a while 3:
 
 When I finish my website I'll put a link here and make a repo with the source code.
 <!--
