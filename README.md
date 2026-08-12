@@ -1,7 +1,9 @@
 ## Hai! ^w^
 I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages. At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make, and also because it's the easiest thing to code in since I'm limited to using my school Chromebook for a while 3:. When I finish my website I'll put a link here and make a repo with the source code.
 
-Once I can use an actual IDE, I want to start making code for a Raspberry Pi smart TV. I'm not sure what to call it yet, so if you have any suggestions please tell me :3 (maybe by making an issue in this repo if that's possible, until I make an email without my full name and/or set up an XMPP address)!
+Once I can use an actual IDE, I want to start making code for a Raspberry Pi smart TV. I'm not sure what to call it yet, so if you have any suggestions please tell me :3 (maybe by making an issue in this repo if that's possible, until I make an email without my full name and/or set up an XMPP address.)
+
+I like Pokemon, EarthBound, Lucky Star, open-source software, and documentation, I hate AI and large tech companies (especially Google and Meta), and I love Firefox, Linux, and my boyfriend >w<
 <!--
 **valefox/valefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
