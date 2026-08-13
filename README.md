@@ -8,7 +8,7 @@ You can contact me on [XMPP](xmpp:oliver42@xmpp.party) or send me an [email](mai
 I like Pokemon, EarthBound, Nintendo console modding & homebrew, Lucky Star, open-source software, and documentation, I hate AI and large tech companies (especially Google and Meta), and I love Firefox, Linux, and my boyfriend >w<
 
 ### Cool Stuff You Should Check Out
-- [**houdiscert**](https://houdiscert.com/) - a discord clone made by my friend and named by me. The name is a portmanteau of his username and "Discord."
+- [**houdiscert**](https://houdiscert.com/) - a discord clone made by my friend. The name was suggested by me and is a portmanteau of his username and "Discord."
 - [**houdiscert Password Manager**](https://pm.houdiscert.com) - a password manager made by the same friend.
 <!--
 **valefox/valefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
