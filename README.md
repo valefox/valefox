@@ -1,11 +1,15 @@
 ## Hai! ^w^
-I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages. At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make, and also because it's the easiest thing to code in since I'm limited to using my school Chromebook for a while 3:. When I finish my website I'll put a link here and make a repo with the source code.
+I'm not the best developer, but I enjoy writing documentation and I want to learn more programming languages. At the moment I'm trying to get better at HTML/CSS/JavaScript, because I want to make a personal website and websites for things I make, and also because it's the easiest thing to code in since I'm limited to using my school-issued Chromebook for a while 3:. My website is really unfinished, but you can see it at <https://valefox.nekoweb.org>.
 
-Once I can use an actual IDE, I want to start making code for a Raspberry Pi smart TV. I'm not sure what to call it yet, so if you have any suggestions or if you would like to help code it, please tell me :3
+I eventually want to code a Raspberry Pi smart TV. I'm not sure what to call it yet, so if you have any suggestions or if you would like to help code it, please tell me :3. I might make it its own Linux distro, although it's more likely that it will be something like [RetroPie](https://github.com/retropie) but for watching movies and TV.
 
-You can contact me on [XMPP](xmpp:oliver42@xmpp.party) or send me an [email](mailto:olivervale42@proton.me).
+You can contact me on [XMPP](xmpp:oliver42@xmpp.party) or send me an [email](mailto:olivervale42@proton.me). I check my email often but not daily, and I only just made this XMPP address recently so I may forget to check it, so I apologize if I'm a bit later to get back to you.
 
-I like Pokemon, EarthBound, Lucky Star, open-source software, and documentation, I hate AI and large tech companies (especially Google and Meta), and I love Firefox, Linux, and my boyfriend >w<
+I like Pokemon, EarthBound, Nintendo console modding & homebrew, Lucky Star, open-source software, and documentation, I hate AI and large tech companies (especially Google and Meta), and I love Firefox, Linux, and my boyfriend >w<
+
+### Cool Stuff You Should Check Out
+- [**houdiscert**](https://houdiscert.com/) - a discord clone made by my friend and named by me. The name is a portmanteau of his username and "Discord."
+- [**houdiscert Password Manager**](https://pm.houdiscert.com) - a password manager made by the same friend.
 <!--
 **valefox/valefox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
