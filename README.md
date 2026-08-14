@@ -3,7 +3,7 @@ I'm not the best developer, but I enjoy writing documentation and I want to lear
 
 I eventually want to code a Raspberry Pi smart TV. I'm not sure what to call it yet, so if you have any suggestions or if you would like to help code it, please tell me :3. I might make it its own Linux distro, although it's more likely that it will be something like [RetroPie](https://github.com/retropie) but for watching movies and TV.
 
-You can contact me on [XMPP](xmpp:oliver42@xmpp.party) or send me an [email](mailto:olivervale42@proton.me). I check my email often but not daily, and I only just made this XMPP address recently so I may forget to check it, so I apologize if I'm a bit later to get back to you.
+You can contact me on [XMPP](xmpp:oliver42@xmpp.party) or send me an [email](mailto:olivervale42@proton.me). I check my email often but not daily, and I only just made this XMPP address recently so I may forget to check it, so I apologize if I'm a bit late to get back to you.
 
 I like Pokemon, EarthBound, Nintendo console modding & homebrew, Lucky Star, open-source software, and documentation, I hate AI and large tech companies (especially Google and Meta), and I love Firefox, Linux, and my boyfriend >w<
 
