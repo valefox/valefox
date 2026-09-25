@@ -9,11 +9,13 @@ Things I like:
 * Nintendo console modding
 * Lucky Star
 * Documentation
+
 Stuff I hate:
 * AI
 * Google
 * Other big tech companies
 * Proprietary software
+
 Stuff I love:
 * Linux
 * ~~My boyfriend >w<~~
