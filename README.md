@@ -1,5 +1,5 @@
 ## Hai :3
-I'm not a very experienced developer, but I enjoy coding writing documentation and I want to learn more programming languages. My garbage unfinished website is <https://valefox.nekoweb.org>.
+I'm not a very experienced developer, but I enjoy coding writing documentation and I want to learn more programming languages. My garbage unfinished website is <https://valefox.nekoweb.org>. I use Arch, btw.
 
 You can contact me via [email](mailto:olivervale42@proton.me).
 
