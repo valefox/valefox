@@ -1,9 +1,15 @@
-I'm not a very experienced developer, but I enjoy coding writing documentation and I want to learn more programming languages. My garbage unfinished website is <https://valefox.nekoweb.org>. I use Arch, btw.
+i use Arch btw
 
-You can contact me via [email](mailto:olivervale42@proton.me).
+[email](mailto:valefox@disroot,org)
 
-I may be a bad developer but my friend [houdert6](https://github.com/houdert6) makes actually good stuff, you should check out his repos.
-<!--
-hi
-'i hate microsoft' i say on microsoft's platform
--->
+[xmpp](xmpp:valefox@xmpp.is)
+```
+
+   |\_/|
+   /O.O\ !
+   \_^_/  ,\
+   /   \,/ /
+  /_\l/_\,'
+
+```
+:3
