@@ -1,10 +1,9 @@
 i use Arch btw
 
-[email](mailto:valefox@disroot,org)
-
-[xmpp](xmpp:valefox@xmpp.is)
+- email: <valefox@disroot.org>
+- xmpp: [valefox@xmpp.is](xmpp:valefox@xmpp.is)
 <details>
-<summary>public key</summary>
+<summary>public gpg key</summary>
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
